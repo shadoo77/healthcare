@@ -219,7 +219,7 @@ function AddRequest(props) {
                   <DatePicker
                     margin="dense"
                     inputVariant="outlined"
-                    disableFuture
+                    //disableFuture
                     openTo="year"
                     format="dd/MM/yyyy"
                     label="Start date"
@@ -232,7 +232,7 @@ function AddRequest(props) {
                   <DatePicker
                     margin="dense"
                     inputVariant="outlined"
-                    disableFuture
+                    //disableFuture
                     openTo="year"
                     format="dd/MM/yyyy"
                     label="End date"
